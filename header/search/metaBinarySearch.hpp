@@ -1,0 +1,6 @@
+#ifndef META_BINARY_SEARCH_HPP
+#define META_BINARY_SEARCH_HPP
+
+
+
+#endif

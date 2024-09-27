@@ -1,0 +1,6 @@
+#ifndef SENTINAL_LINER_SEARCH_HPP
+#define SENTINAL_LINER_SEARCH_HPP
+
+
+
+#endif

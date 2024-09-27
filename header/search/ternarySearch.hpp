@@ -1,0 +1,6 @@
+#ifndef TERNARY_SEARCH_HPP
+#define TERNARY_SEARCH_HPP
+
+
+
+#endif
